@@ -1,3 +1,3 @@
 # firstTest
 This is a GitHub repository
-And this if an edit on a branch
+And this is an edit on a branch
